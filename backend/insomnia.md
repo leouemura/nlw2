@@ -12,3 +12,9 @@ JSON BODY{
         { "week_day":4, "from":"8:00", "to":"12:00" }
     ]
 }
+
+## GET    htttp://localhost:3333/classes
+QUERY:
+week_day | 1
+subject  | Javascript
+time     | 8:00
