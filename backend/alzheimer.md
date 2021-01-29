@@ -6,6 +6,8 @@ yarn add express
 yarn add @types/express -D
 yarn add knex
 yarn add sqlite3
+yarn add cors
+yarn add @types/cors -D
 
 # scripts:
 "scripts":{
